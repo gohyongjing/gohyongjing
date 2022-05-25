@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! 👋 I'm Yong Jing!
+
+- 🔭 I’m currently working on a website that integrates a forum and quiz for online lessons as a project for school.
+- 🌱 I’m currently learning web development by following along [The Odin Project](https://www.theodinproject.com/).
+- 📫 How to reach me: on [linkedin](https://www.linkedin.com/in/yong-jing-goh-948605219/)
 
 <!--
 **gohyongjing/gohyongjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
