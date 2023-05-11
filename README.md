@@ -1,9 +1,12 @@
-### Hi there! 👋 I'm Yong Jing!
-
-- 📚 I’m currently studying in National University of SIngapore (NUS).
-- 🌱 I'm currently taking a software engineering mod in NUS and creating a JavaFX app in a team that helps Non Profit Organisations store contact information of volunteers and elderly members. ([FriendlyLink](https://github.com/AY2223S2-CS2103T-W12-1/tp))
-- 💼 I'm currently looking for an internship for summer 2023
+# Hi there! 👋 I'm Yong Jing!
+- 📚 I’m currently studying **Computer Science** in **National University of Singapore** ((NUS))[https://nus.edu.sg/].
+- 💼 I'm currently working as a **Web Developer Intern** for (**Growthbeans**)[https://www.growthbeans.com/] for summer 2023
 - 📫 How to reach me: on [linkedin](https://www.linkedin.com/in/yong-jing-goh-948605219/) or email: e0693145@u.nus.edu
+
+## Past Works
+- 🌱 Create a JavaFX app in a team (NUS graded project) to help Non Profit Organisations store contact information of volunteers and elderly members. ([FriendlyLink](https://github.com/AY2223S2-CS2103T-W12-1/tp))
+- 🌱 Create a website in a team of 2 (NUS graded project) to help lecturers and students in online learning, by incorporating forums, online and offline quizzes in a single website (snail-express)[snail-express.firebaseapp.com]
+- 🌱 Learn web development by following along [The Odin Project](https://www.theodinproject.com/)
 
 <!--
 **gohyongjing/gohyongjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
