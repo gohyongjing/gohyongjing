@@ -5,7 +5,7 @@
 
 ## Past Works
 - 🌱 Create a JavaFX app in a team (NUS graded project) to help Non Profit Organisations store contact information of volunteers and elderly members. ([FriendlyLink](https://github.com/AY2223S2-CS2103T-W12-1/tp))
-- 🌱 Create a website in a team of 2 (NUS graded project) to help lecturers and students in online learning, by incorporating forums, online and offline quizzes in a single website (snail-express)[snail-express.firebaseapp.com]
+- 🌱 Create a website in a team of 2 (NUS graded project) to help lecturers and students in online learning, by incorporating forums, online and offline quizzes in a single website ([snail-express](https://snail-express.firebaseapp.com))
 - 🌱 Learn web development by following along [The Odin Project](https://www.theodinproject.com/)
 
 <!--
