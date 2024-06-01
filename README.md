@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Yong Jing!
+# Hi there, I'm Yong Jing! 👋 
+- 💼 I'm currently working as a **Junior Software Developer Intern** for (**JLK Technologies**)[https://www.jlk-tech.com/] for summer 2024
 - 📚 I’m currently studying **Computer Science** in **National University of Singapore** ((NUS))[https://nus.edu.sg/].
 - 📫 How to reach me: on [linkedin](https://www.linkedin.com/in/yong-jing-goh-948605219/) or email: gohyongjing@u.nus.edu
 
